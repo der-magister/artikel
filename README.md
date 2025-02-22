@@ -1,4 +1,3 @@
-Clone of https://codeberg.org/Magister/Artikel
+# Artikel
 
-mail@heikowolf.info
-
+Eigene Artikel
