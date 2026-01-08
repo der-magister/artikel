@@ -1,7 +1,5 @@
-Diese Texte sind anderer Urheberschaft, aber frei verfügar (meist produziert 
-vom öffentliche Dienst für alle)
+Diese Daten wurden ausgelagert.
 
-Diese sind so zu nehmen wie es da steht.
+git clone https://github.com/der-magister/forschungsdaten.git
 
-Zudem Froschunsggrundlagen mit Anmerkungen von Heiko Wolf.
- 
+
